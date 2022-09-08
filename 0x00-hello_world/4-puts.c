@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *Function - void
+ *main - void
  *
  *Return : 0
  */
