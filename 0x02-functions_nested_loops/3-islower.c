@@ -7,11 +7,12 @@
 int _islower(int  c)
 {
 	int t;
-	if (c >= 65 && c <=90)
+
+	if (c >= 97 && c <=122)
 	{
 		t = 0;
 	}
-	else if (c >= 97 && c <=122)
+	else 
 	{
 		t = 1;
 	}	
