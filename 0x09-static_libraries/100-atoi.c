@@ -1,11 +1,9 @@
 #include "main.h"
-
 /**
  * _atoi - convert a string to an integer.
  * @s: char type string
  * Return: integer converted
  */
-
 int _atoi(char *s)
 {
 	int sign = 1, resp = 0, firstNum;

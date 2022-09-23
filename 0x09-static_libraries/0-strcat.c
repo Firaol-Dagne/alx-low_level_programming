@@ -5,7 +5,6 @@
  * @src: pointer source
  * Return: void
 */
-
 char *_strcat(char *dest, char *src)
 {
 int a = -1, i;
