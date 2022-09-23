@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
+ * main - function
  * isInteger - checks if s is an integer
  * @s: string to check
+ * @argc: int
+ * @argv: list
  * Return: 0 or 1
  */
 
@@ -17,13 +20,6 @@ int isInteger(const char *s)
 	}
 	return (0);
 }
-
-/**
- * main - adds positive numbers
- * @argc: int
- * @argv: list
- * Return: 0
- */
 
 int main(int argc, char const *argv[])
 {
