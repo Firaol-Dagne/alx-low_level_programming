@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef _BIT_MANIP_
+#define _BIT_MANIP_
 /*
  * File: holberton.h
  * AUth: Brennan D Baraban
